@@ -1,0 +1,7 @@
+bin/
+obj/
+ExportData/bin/
+ExportData/obj/
+*.suo
+*.snk
+*.dbmdl
